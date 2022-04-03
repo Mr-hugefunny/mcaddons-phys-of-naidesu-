@@ -1,0 +1,147 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "egg_camel": {
+      "textures": "textures/items/egg_camel"
+    },
+    "egg_lion": {
+      "textures": "textures/items/egg_lion"
+    },
+    "egg_penguin": {
+      "textures": "textures/items/egg_penguin"
+    },
+    "egg_tiger": {
+      "textures": "textures/items/egg_tiger"
+    },
+    "egg_elephant": {
+      "textures": "textures/items/egg_elephant"
+    },
+    "egg_deer": {
+      "textures": "textures/items/egg_deer"
+    },
+    "egg_panther": {
+      "textures": "textures/items/egg_panther"
+    },
+    "egg_frog": {
+      "textures": "textures/items/egg_frog"
+    },
+    "egg_crocodile": {
+      "textures": "textures/items/egg_crocodile"
+    },
+    "egg_mouse": {
+      "textures": "textures/items/egg_mouse"
+    },
+    "gallardo": {
+      "textures": "textures/items/gallardo"
+    },
+    "bench": {
+      "textures": "textures/items/bench"
+    },
+    "christmas_tree": {
+      "textures": "textures/items/christmas_tree"
+    },
+    "tivi": {
+      "textures": "textures/items/tivi"
+    },
+    "closet": {
+      "textures": "textures/items/closet"
+    },
+    "laptop": {
+      "textures": "textures/items/laptop"
+    },
+    "piano": {
+      "textures": "textures/items/piano"
+    },
+    "armchairs": {
+      "textures": "textures/items/armchairs"
+    },
+    "chair": {
+      "textures": "textures/items/chair"
+    },
+    "big_table": {
+      "textures": "textures/items/big_table"
+    },
+    "small_table": {
+      "textures": "textures/items/small_table"
+    },
+    "drone": {
+      "textures": "textures/items/drone"
+    },
+    "colorful_gifts": {
+      "textures": "textures/items/colorful_gifts"
+    },
+    "pa_blender_zero": {
+      "textures": "textures/items/pamobile/pa_blender_zero"
+    },
+    "pa_blender_alpha": {
+      "textures": "textures/items/pamobile/pa_blender_alpha"
+    },
+    "pa:circle_sticks": {
+      "textures": "textures/items/pamobile/pa_circle_sticks"
+    },
+    "pa:circle_stick": {
+      "textures": "textures/items/pamobile/pa_circle_stick"
+    },
+    "pa:circle_exchange": {
+      "textures": "textures/items/pamobile/pa_circle_exchange"
+    },
+    "pa_blender_delta": {
+      "textures": "textures/items/pamobile/pa_blender_delta"
+    },
+    "pa:circle_full": {
+      "textures": "textures/items/pamobile/pa_circle_full"
+    },
+    "pa_dying_knife_zero": {
+      "textures": "textures/items/pamobile/pa_dying_knife_zero"
+    },
+    "pa_blender_gamma": {
+      "textures": "textures/items/pamobile/pa_blender_gamma"
+    },
+    "pa:square_full": {
+      "textures": "textures/items/pamobile/pa_square_full"
+    },
+    "pa_machinegun": {
+      "textures": "textures/items/pamobile/pa_machinegun"
+    },
+    "pa:square_exchange": {
+      "textures": "textures/items/pamobile/pa_square_exchange"
+    },
+    "pa_dying_knife_alpha": {
+      "textures": "textures/items/pamobile/pa_dying_knife_alpha"
+    },
+    "pa:mms_corel": {
+      "textures": "textures/items/pamobile/pa_mms_corel"
+    },
+    "pa:coreh": {
+      "textures": "textures/items/pamobile/pa_coreh"
+    },
+    "pa:corel": {
+      "textures": "textures/items/pamobile/pa_corel"
+    },
+    "pa:mms_corel_m": {
+      "textures": "textures/items/pamobile/pa_mms_corel_m"
+    },
+    "pa_blender_beta": {
+      "textures": "textures/items/pamobile/pa_blender_beta"
+    },
+    "pa:pow": {
+      "textures": "textures/items/pamobile/pa_pow"
+    },
+    "pa_blender_epsilon": {
+      "textures": "textures/items/pamobile/pa_blender_epsilon"
+    },
+    "pa_dying_knife_beta": {
+      "textures": "textures/items/pamobile/pa_dying_knife_beta"
+    },
+    "pa_dying_knife_gamma": {
+      "textures": "textures/items/pamobile/pa_dying_knife_gamma"
+    },
+    "pa_dying_knife_delta": {
+      "textures": "textures/items/pamobile/pa_dying_knife_delta"
+    },
+    "pa_dying_knife_eplison": {
+      "textures": "textures/items/pamobile/pa_dying_knife_eplison"
+    }
+  }
+}

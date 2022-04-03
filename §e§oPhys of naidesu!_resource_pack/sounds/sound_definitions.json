@@ -1,0 +1,8 @@
+{
+  "pa_machinegun_shot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/pa_machinegun_shot"
+    ]
+  }
+}
