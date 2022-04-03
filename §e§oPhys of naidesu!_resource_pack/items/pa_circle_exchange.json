@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pa:circle_exchange",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "pa:circle_exchange",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

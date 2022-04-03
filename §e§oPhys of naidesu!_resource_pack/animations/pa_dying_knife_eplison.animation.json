@@ -1,0 +1,39 @@
+{
+  "format_version": "1.10.0",
+  "animations": {
+    "animation.pa_dying_knife_eplison.first_person": {
+      "loop": true,
+      "bones": {
+        "rightitem": {
+          "position": [
+            -5.0,
+            35.0,
+            -5.5
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            180.0
+          ]
+        }
+      }
+    },
+    "animation.pa_dying_knife_eplison.third_person": {
+      "loop": true,
+      "bones": {
+        "rightitem": {
+          "position": [
+            0,
+            22,
+            5
+          ],
+          "rotation": [
+            90,
+            0,
+            90
+          ]
+        }
+      }
+    }
+  }
+}

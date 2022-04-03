@@ -1,0 +1,1 @@
+give @s pa:dying_knife_delta

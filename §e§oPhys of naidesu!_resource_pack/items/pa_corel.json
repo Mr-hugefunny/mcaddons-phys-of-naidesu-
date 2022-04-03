@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pa:corel",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "pa:corel",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

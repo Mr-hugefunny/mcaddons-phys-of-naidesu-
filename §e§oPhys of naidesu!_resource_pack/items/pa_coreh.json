@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pa:coreh",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "pa:coreh",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

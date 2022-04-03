@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "§9防止长草，从健康更新开始!§6 by §6Ecppk!",
+    "name": "§e§oPhys of naidesu!",
+    "uuid": "d275704c-7580-46b4-8bdf-d5a9d880d40d",
+    "version": [
+      0,
+      0,
+      9
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "§9防止长草，从健康更新开始!§6 by §6Ecppk!",
+      "type": "resources",
+      "uuid": "2ad8498d-9b98-4a7c-9cb0-60b06db29a4f",
+      "version": [
+        0,
+        0,
+        9
+      ]
+    }
+  ]
+}

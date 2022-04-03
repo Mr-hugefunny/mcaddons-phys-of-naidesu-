@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pa:circle_full",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "pa:circle_full",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

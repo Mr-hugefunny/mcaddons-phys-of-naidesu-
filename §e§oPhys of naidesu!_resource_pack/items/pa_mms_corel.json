@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pa:mms_corel",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "pa:mms_corel",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

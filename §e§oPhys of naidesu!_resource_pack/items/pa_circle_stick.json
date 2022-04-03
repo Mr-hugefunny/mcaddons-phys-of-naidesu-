@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pa:circle_stick",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "pa:circle_stick",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

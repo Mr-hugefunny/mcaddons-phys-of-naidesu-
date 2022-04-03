@@ -1,0 +1,129 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "category": "equipment",
+      "identifier": "pa:dying_knife_delta"
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "pa_dying_knife_delta"
+      },
+      "minecraft:creative_category": {
+        "parent": "itemGroup.name.sword"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:hand_equipped": true,
+      "minecraft:allow_off_hand": true,
+      "minecraft:foil": false,
+      "minecraft:durability": {
+        "max_durability": 1024,
+        "damage_chance": {
+          "min": 60,
+          "max": 100
+        }
+      },
+      "minecraft:repairable": {
+        "repair_items": [
+          {
+            "items": [
+              "pa:dying_knife_delta"
+            ],
+            "repair_amount": "context.other->query.remaining_durability + 0.2 * context.other->query.max_durability"
+          }
+        ]
+      },
+      "minecraft:mining_speed": 1,
+      "minecraft:damage": 18,
+      "minecraft:enchantable": {
+        "value": 15,
+        "slot": "sword"
+      },
+      "minecraft:can_destroy_in_creative": true,
+      "minecraft:weapon": {
+        "on_hurt_entity": {
+          "event": "hurt"
+        },
+        "on_not_hurt_entity": {
+          "event": "hurt"
+        },
+        "on_hit_block": {
+          "event": "hurt"
+        }
+      },
+      "minecraft:on_use": {
+        "on_use": {
+          "event": "on_use_event"
+        }
+      },
+      "minecraft:render_offsets": {
+        "main_hand": {
+          "third_person": {
+            "scale": [
+              0.4,
+              0.4,
+              0.4
+            ]
+          },
+          "first_person": {
+            "scale": [
+              0.15199999999990882,
+              0.15199999999990882,
+              0.15199999999990882
+            ]
+          }
+        },
+        "off_hand": {
+          "third_person": {
+            "scale": [
+              0.4,
+              0.4,
+              0.4
+            ]
+          },
+          "first_person": {
+            "scale": [
+              0.15199999999990882,
+              0.15199999999990882,
+              0.15199999999990882
+            ]
+          }
+        }
+      },
+      "tag:minecraft:is_sword": {},
+      "minecraft:display_name": {},
+      "minecraft:cooldown": {
+        "category": "action_cooldown",
+        "duration": 1
+      }
+    },
+    "events": {
+      "on_use_event": {
+        "sequence": [
+          {
+            "run_command": {
+              "command": [
+                "function dryblood"
+              ],
+              "target": "self"
+            }
+          },
+          {
+            "damage": {
+              "type": "magic",
+              "amount": 1,
+              "target": "self"
+            }
+          }
+        ]
+      },
+      "hurt": {
+        "damage": {
+          "type": "magic",
+          "amount": 1,
+          "target": "self"
+        }
+      }
+    }
+  }
+}

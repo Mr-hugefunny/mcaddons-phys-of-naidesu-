@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pa:square_exchange",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "pa:square_exchange",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}
