@@ -1,0 +1,37 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "corel_9d3df767"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AB ",
+      "CD "
+    ],
+    "key": {
+      "A": {
+        "item": "pa:mms_corel_m",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:blaze_powder",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:dispenser",
+        "data": 0
+      },
+      "D": {
+        "item": "pa:coreh",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pa:corel",
+      "count": 1
+    }
+  }
+}

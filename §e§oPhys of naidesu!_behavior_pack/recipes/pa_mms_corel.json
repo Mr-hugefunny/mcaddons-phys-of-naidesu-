@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mms_corel_66e3a139"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A  ",
+      "BC "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:lightning_rod",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:observer",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:black_glazed_terracotta",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pa:mms_corel",
+      "count": 1
+    }
+  }
+}

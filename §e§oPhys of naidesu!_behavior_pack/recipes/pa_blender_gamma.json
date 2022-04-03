@@ -1,0 +1,34 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "blender_gamma_679e6b68"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "  A",
+      "BA ",
+      "C  "
+    ],
+    "key": {
+      "A": {
+        "item": "pa:blender_beta",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:blue_ice",
+        "data": 0
+      },
+      "C": {
+        "item": "pa:circle_sticks",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pa:blender_gamma",
+      "count": 1
+    }
+  }
+}

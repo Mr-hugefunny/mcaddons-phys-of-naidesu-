@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "coreh_7d541016"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "  A",
+      " B ",
+      "A  "
+    ],
+    "key": {
+      "A": {
+        "item": "pa:circle_sticks",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:copper_block",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pa:coreh",
+      "count": 1
+    }
+  }
+}

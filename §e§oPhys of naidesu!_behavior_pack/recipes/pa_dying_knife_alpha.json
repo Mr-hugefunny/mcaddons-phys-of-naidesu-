@@ -1,0 +1,38 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "dying_knife_alpha_f9f9b2fc"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " A ",
+      " B ",
+      "CDC"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:redstone",
+        "data": 0
+      },
+      "B": {
+        "item": "pa:dying_knife_zero",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:obsidian",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:soul_sand",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pa:dying_knife_alpha",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "blender_delta_e21fb177"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " AB",
+      " CA",
+      "D  "
+    ],
+    "key": {
+      "A": {
+        "item": "pa:blender_gamma",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:observer",
+        "data": 0
+      },
+      "C": {
+        "item": "pa:circle_full",
+        "data": 0
+      },
+      "D": {
+        "item": "pa:circle_sticks",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pa:blender_delta",
+      "count": 1
+    }
+  }
+}
